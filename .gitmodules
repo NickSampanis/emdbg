@@ -1,0 +1,13 @@
+[submodule "third_party/cimgui"]
+	path = third_party/cimgui
+	url = https://github.com/cimgui/cimgui
+	branch = docking_inter
+[submodule "third_party/SDL"]
+	path = third_party/SDL
+	url = https://github.com/libsdl-org/SDL
+[submodule "third_party/zydis"]
+	path = third_party/zydis
+	url = https://github.com/zyantific/zydis
+[submodule "third_party/emstub"]
+	path = third_party/emstub
+	url = https://github.com/NickSampanis/emstub
